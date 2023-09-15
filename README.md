@@ -1,6 +1,6 @@
 ## Download
 ```bash
-curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/RT1648/local_manifestt/main/manifest.xml --create-dirs
+curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/RT1648/local_manifest/main/manifest.xml --create-dirs
 ```
 ## Sync
 ```bash
