@@ -8,4 +8,6 @@
 <project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="Arrow"/>
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve"/>
+<!-- GCAM -->
+<project path="packages/apps/GCamGOPrebuilt" name="Evolution-X/packages_apps_GCamGOPrebuilt" remote="ghub" revision="tiramisu"/>
 </manifest>
