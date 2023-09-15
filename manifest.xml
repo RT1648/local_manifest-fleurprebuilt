@@ -7,5 +7,5 @@
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="Arrow"/>
 <!-- VT -->
-<project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
+<project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve"/>
 </manifest>
