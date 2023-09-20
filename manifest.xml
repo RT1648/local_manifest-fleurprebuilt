@@ -10,6 +10,8 @@
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve"/>
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM"/>
+<!-- HW -->
+<project path="hardware/mediatek" name="RT1648/android_hardware_mediatek" remote="ghub" revision="lineage-20.0"/>
 <!-- GCAM -->
 <project path="packages/apps/GCamGOPrebuilt" name="Evolution-X/packages_apps_GCamGOPrebuilt" remote="ghub" revision="tiramisu"/>
 </manifest>
