@@ -7,7 +7,7 @@
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="Aosp"/>
 <!-- VT -->
-<project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve"/>
+<project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_fleur" remote="ghub" revision="twelve"/>
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM"/>
 <!-- HW -->
