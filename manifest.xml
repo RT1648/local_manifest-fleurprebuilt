@@ -5,9 +5,11 @@
         fetch="https://github.com" />
 
 <!-- DT -->
-<project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="Evox"/>
+<project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="thirteen"/>
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_fleur" remote="ghub" revision="twelve"/>
+<!-- KT -->
+<project path="device/xiaomi/fleur-kernel" name="RT1648/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0"/>
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM"/>
 <!-- HW -->
