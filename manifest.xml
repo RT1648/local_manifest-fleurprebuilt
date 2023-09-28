@@ -5,7 +5,7 @@
         fetch="https://github.com" />
 
 <!-- DT -->
-<project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="thirteen"/>
+<project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="lineage"/>
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_fleur" remote="ghub" revision="twelve"/>
 <!-- KT -->
